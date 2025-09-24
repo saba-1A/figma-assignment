@@ -1,8 +1,6 @@
 <template>
   <div>
-    <!-- Custom Cursor -->
-    <CustomCursor />
-
+    
     <!-- Navbar -->
     <Navbar />
 

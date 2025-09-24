@@ -1,7 +1,3 @@
-<img
-            src="/d.png"
-            ></img>
-          
 <script setup>
 import { Twitter, Youtube, Linkedin, Instagram, Facebook } from 'lucide-vue-next'
 </script>
