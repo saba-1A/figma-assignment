@@ -1,54 +1,75 @@
+# Nuxt Minimal Starter
 
-Saba Portfolio - Vue.js & TailwindCSS
-A personal portfolio built with Vue.js v3, Composition API, and Tailwind CSS v3.
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-(Replace this screenshot with one of your own portfolio’s screenshot)
+## Setup
 
-Demo URL
-https://saba-1A.github.io/saba-portfolio
-(Update with your live deployed link if different)
+Make sure to install dependencies:
 
-Features
-Simple and responsive design
-Vue.js v3 with Vue Router
-Tailwind CSS v3
-Theme Switcher with Dark Mode
-Composition API
-Vue transitions
-Reusable Components
-Projects filter by category
-Projects filter by search
-Projects carousel
-Vue.js smooth scroll
-Dynamic forms
-Scroll to top button
-Download CV / Resume button
-
-Setup
-Make sure you have Node.js installed. If you don’t:
-Download it from nodejs.org
-Use NVM to manage versions: https://github.com/nvm-sh/nvm
-Clone the repo:
-git clone https://github.com/saba-1A/saba-portfolio.git
-
-Open the project folder:
-cd saba-portfolio
-
-Install packages:
+```bash
+# npm
 npm install
 
-Start a local dev server:
-npm run serve
+# pnpm
+pnpm install
 
-Pixelay / Visual Fidelity
-Desktop overlay: /pixelay/pixelay-desktop.png
-Mobile overlay: /pixelay/pixelay-mobile.png
-Notes: /pixelay/notes.md
+# yarn
+yarn install
 
-Notes
-Run npm install whenever you pull new changes.
-Illustrations from unDraw and Freepik
-Images from Unsplash
+# bun
+bun install
+```
 
-License
-MIT
+## Development Server
+
+Start the development server on `http://localhost:3000`:
+
+```bash
+# npm
+npm run dev
+
+# pnpm
+pnpm dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
