@@ -33,7 +33,7 @@ Pixelay Evidence
 ---
 
 ## Live Demo  
-🔗 Hosted URL: *(add your deployed link here — GitHub Pages, Netlify, or Vercel)*  
+[🔗 Hosted URL: *(add your deployed link here — GitHub Pages, Netlify, or Vercel)* ](https://figma-assignment-8no1pte9n-saba-1as-projects.vercel.app/) 
 
 ---
 Tech Stack  
