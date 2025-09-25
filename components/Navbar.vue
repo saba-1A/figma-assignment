@@ -4,7 +4,7 @@
   >
     <!-- Left: Logo + Menu -->
     <div class="flex items-center space-x-8">
-      <img src="/public/logo.svg" alt="Figma Logo" class="w-7 h-7" />
+      <img src="/logo.svg" alt="Figma Logo" class="w-7 h-7" />
 
       <!-- Desktop Menu -->
       <div class="hidden md:flex space-x-6 font-medium text-gray-800">
