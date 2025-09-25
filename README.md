@@ -33,8 +33,7 @@ Pixelay Evidence
 ---
 
 ## Live Demo  
-1.https://figma-assignment-8no1pte9n-saba-1as-projects.vercel.app/
-2.https://figma-assignment-umber-three.vercel.app/
+https://figma-assignment-umber-three.vercel.app/
 
 ---
 Tech Stack  
